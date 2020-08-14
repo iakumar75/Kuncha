@@ -4,5 +4,8 @@ kheer
 panner
 checken fry
 
+beans
+pizza
+
 
 thank you all
